@@ -1,0 +1,7 @@
+c:\users\samat kaiyrbek\source\repos\Week1\Task1\bin\Debug\Task1.exe.config
+c:\users\samat kaiyrbek\source\repos\Week1\Task1\bin\Debug\Task1.exe
+c:\users\samat kaiyrbek\source\repos\Week1\Task1\bin\Debug\Task1.pdb
+c:\users\samat kaiyrbek\source\repos\Week1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+c:\users\samat kaiyrbek\source\repos\Week1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+c:\users\samat kaiyrbek\source\repos\Week1\Task1\obj\Debug\Task1.exe
+c:\users\samat kaiyrbek\source\repos\Week1\Task1\obj\Debug\Task1.pdb
