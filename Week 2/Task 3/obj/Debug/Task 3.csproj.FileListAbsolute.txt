@@ -1,0 +1,6 @@
+c:\users\samat kaiyrbek\source\repos\Week 2\Task 3\bin\Debug\Task 3.exe.config
+c:\users\samat kaiyrbek\source\repos\Week 2\Task 3\bin\Debug\Task 3.exe
+c:\users\samat kaiyrbek\source\repos\Week 2\Task 3\bin\Debug\Task 3.pdb
+c:\users\samat kaiyrbek\source\repos\Week 2\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+c:\users\samat kaiyrbek\source\repos\Week 2\Task 3\obj\Debug\Task 3.exe
+c:\users\samat kaiyrbek\source\repos\Week 2\Task 3\obj\Debug\Task 3.pdb
